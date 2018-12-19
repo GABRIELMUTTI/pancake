@@ -1,5 +1,5 @@
 # pancake
-A python algorithm to solve the pancake problem in the least amount of flips.
+A Python3 algorithm to solve the pancake problem in the least amount of flips.
 This is purely for educational purposes.
 
 ---
@@ -45,3 +45,4 @@ Creates a random list with length `n`
 
 ## pancake.py
 The best algorithm I've managed to create (for now).
+
