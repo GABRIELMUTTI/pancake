@@ -2,8 +2,6 @@
 A Python3 algorithm to solve the pancake problem in the least amount of flips.
 This is purely for educational purposes.
 
----
-
 # algorithm
 A trivial algorithm would be to select the largest number, flipping the list at
 its index, and then flipping again to put it at its correct spot. With this procedure,
@@ -21,9 +19,6 @@ The algorithm that I've thought, but have not yet implemented, is one that is si
 former but it sorts the top number in reverse order if the flip that sorts it in the correct
 order fragments a set of numbers that are already ordered. From testing, this seems to be better
 than the previous method. When I'll have the algorithm I'll implement it.
-
-
----
 
 # files
 ## flipper.py
@@ -45,4 +40,3 @@ Creates a random list with length `n`
 
 ## pancake.py
 The best algorithm I've managed to create (for now).
-
