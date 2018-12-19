@@ -39,9 +39,9 @@ Enter a number to select the corresponding list.
 Creates a random list with length `n`
 
 ### commands
-⋅⋅* u: undo last flip.
-⋅⋅* f: show number of flips.
-⋅⋅* r: resets the list.
+* u: undo last flip.
+* f: show number of flips.
+* r: resets the list.
 
 ## pancake.py
 The best algorithm I've managed to create (for now).
